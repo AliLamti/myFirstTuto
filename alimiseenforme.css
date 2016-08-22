@@ -1,0 +1,89 @@
+.ligne{
+color:black;
+width:460px;
+padding:20px;
+clear:both;
+}
+
+.champs{
+color:silver;
+padding-bottom:15px;
+padding-left:0px;
+width:300px;
+float:right;
+}
+
+
+#loula{
+ padding:20px;
+ width:484px;
+ background-color:cyan;
+ border-radius:4px; 	
+}
+
+#facebook{
+padding:10px;
+width:505px;
+border-radius:4px;
+}
+
+form {
+ background-color:white;
+ padding:85px;
+ width:450px;
+ }
+
+label{
+float:left;
+width:10px;
+}
+
+.champs input,.champs textarea{
+border:1px solid;
+border-radius:px;
+}
+
+input[type=submit]{
+background-color:blue;
+width:150px;
+padding:10px;
+color:white;
+border-radius:5px;
+}
+
+body{
+font-family:serial;
+background-color:
+margin-left:350px;
+margin-bottom:100px;
+border-radius:4px;
+}
+
+
+
+
+
+#corps
+{
+
+border:1px solid black;
+height:150px;
+width:499px;
+float:left;
+margin:0px 1px 1px 2px;
+border:none;
+border-style:;
+padding:50px;
+margin-left:300px;
+margin-top:3px;
+margin-right:20px;
+
+}
+
+header{
+width:608px;
+border-radius:50px;
+border-style:;
+margin-left:315px;
+}
+
